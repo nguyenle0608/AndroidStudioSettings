@@ -4,7 +4,7 @@
     <property name="created">2021-04-20T13:56:21</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.2.1.16</property>
-    <property name="modified">2022-09-07T09:49:21</property>
+    <property name="modified">2022-09-07T11:33:21</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2931,7 +2931,6 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
