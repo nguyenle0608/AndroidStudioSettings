@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="P213622062102267" />
-          </Key>
-        </key>
-        <name value="alps Android PDA-4G(2136)" />
-        <target value="Android 8.1" />
-        <api value="androidversion:27:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="24145600fa0c7ece" />
           </Key>
         </key>
         <name value="samsung SM-G960F" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="P213622062102267" />
+          </Key>
+        </key>
+        <name value="alps Android PDA-4G(2136)" />
+        <target value="Android 8.1" />
+        <api value="androidversion:27:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
