@@ -13,6 +13,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="PythonCore">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.python-core-capable" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="cn.neday.excavator">
           <value>
             <PluginData>
@@ -20,6 +31,17 @@
                 <set>
                   <option value="com.intellij.modules.platform" />
                   <option value="org.jetbrains.plugins.terminal" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.ankit.mahadik.json.dart.class">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
                 </set>
               </option>
             </PluginData>
@@ -81,6 +103,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.plugins.macoskeymap">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.plugins.vscodekeymap">
           <value>
             <PluginData>
@@ -119,6 +152,17 @@
           </value>
         </entry>
         <entry key="com.nasller.CodeGlancePro">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.samvtran.plugins.macosforallkeymap">
           <value>
             <PluginData>
               <option name="dependencies">
@@ -169,7 +213,7 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="org.sonarlint.idea">
+        <entry key="izhangzhihao.rainbow.brackets">
           <value>
             <PluginData>
               <option name="dependencies">
@@ -180,16 +224,31 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="zielu.gittoolbox">
+        <entry key="name.kropp.intellij.makefile">
           <value>
             <PluginData>
               <option name="dependencies">
                 <set>
-                  <option value="Git4Idea" />
-                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.modules.lang" />
                 </set>
               </option>
             </PluginData>
+          </value>
+        </entry>
+        <entry key="org.arxing.dart_fast_import">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.intellij.plugins.markdown">
+          <value>
+            <PluginData />
           </value>
         </entry>
       </map>
