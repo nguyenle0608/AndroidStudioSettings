@@ -24,6 +24,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="andrasferenczi.dart-data-plugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Dart" />
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="cn.neday.excavator">
           <value>
             <PluginData>
@@ -64,6 +76,29 @@
             <PluginData>
               <option name="dependencies">
                 <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.daniel-espinoza.inline-error">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.github.copilot">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
