@@ -3,9 +3,10 @@
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
-    <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="ide.experimental.ui" value="true" />
+    <entry key="ide.experimental.ui.navbar.scroll" value="true" />
+    <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
-    <entry key="gradle.version.catalogs.dynamic.support" value="true" />
+    <entry key="ide.experimental.ui.inter.font" value="true" />
   </component>
 </application>
