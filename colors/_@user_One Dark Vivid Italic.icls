@@ -3,8 +3,9 @@
     <property name="created">2023-04-27T11:28:35</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2022.2.1.18</property>
-    <property name="modified">2023-04-27T11:43:17</property>
+    <property name="modified">2023-04-27T11:47:10</property>
     <property name="originalScheme">One Dark Vivid Italic</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="89ca78" />
