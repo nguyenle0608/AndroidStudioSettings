@@ -1,10 +1,10 @@
-<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-04-17T17:39:49</property>
+    <property name="created">2023-04-27T11:39:38</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">2021.1.1.23</property>
-    <property name="modified">2023-04-27T11:41:34</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="ideVersion">2022.2.1.18</property>
+    <property name="modified">2023-04-27T11:40:40</property>
+    <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e887" />
@@ -13,6 +13,9 @@
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
@@ -21,24 +24,12 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
+    <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="c792ea" />
   </colors>
-  <attributes>
-    <option name="HTML_CODE">
-      <value />
-    </option>
-    <option name="KOTLIN_LABEL">
-      <value />
-    </option>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="3b514d" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
