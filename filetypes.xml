@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".stg3_env" type="PLAIN_TEXT" />
       <mapping pattern=".stg2_env" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
