@@ -1,0 +1,39 @@
+<application>
+  <component name="ExternalDiffSettings">
+    <option name="DEFAULT_TOOL_CONFIGURATION">
+      <ExternalToolConfiguration>
+        <option name="diffToolName" value="Ksdiff" />
+        <option name="mergeToolName" value="Ksdiff" />
+      </ExternalToolConfiguration>
+    </option>
+    <option name="EXTERNAL_TOOLS">
+      <map>
+        <entry key="DIFF_TOOL">
+          <value>
+            <list>
+              <ExternalTool>
+                <option name="argumentPattern" value="--no-stdin %1 %2 %3" />
+                <option name="name" value="Ksdiff" />
+                <option name="programPath" value="/usr/local/bin/ksdiff" />
+              </ExternalTool>
+            </list>
+          </value>
+        </entry>
+        <entry key="MERGE_TOOL">
+          <value>
+            <list>
+              <ExternalTool>
+                <option name="argumentPattern" value="--no-stdin --merge --output %4 --base %3 %1 %2" />
+                <option name="groupName" value="MERGE_TOOL" />
+                <option name="mergeTrustExitCode" value="true" />
+                <option name="name" value="Ksdiff" />
+                <option name="programPath" value="/usr/local/bin/ksdiff" />
+              </ExternalTool>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="MIGRATE_OLD_SETTINGS" value="true" />
+  </component>
+</application>
