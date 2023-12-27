@@ -4,6 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="com.wecopytrade.app" />
+        <option value="com.we" />
+        <option value="com.wecopytrade.app SplashView" />
+        <option value="com.wecopytrade.app MainAppView" />
         <option value="com.w" />
       </list>
     </option>
