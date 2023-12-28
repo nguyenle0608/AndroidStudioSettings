@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.wecopytrade.app" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="com.wecopytrade.app Unknown route:" />
         <option value="com.wecopytrade.app" />
         <option value="com.we" />
         <option value="com.wecopytrade.app SplashView" />
