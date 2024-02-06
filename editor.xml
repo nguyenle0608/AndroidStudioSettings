@@ -1,5 +1,10 @@
 <application>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Dart" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
 </application>
