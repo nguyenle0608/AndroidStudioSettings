@@ -18,7 +18,6 @@
     <option name="widgets">
       <map>
         <entry key="ClangTidyStatusBarWidget" value="false" />
-        <entry key="Encoding" value="false" />
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="SendFeedbackPanel" value="false" />
         <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
