@@ -1,0 +1,16 @@
+<templateSet group="Bloc">
+  <template name="bloc" value="class $Subject$Bloc extends Bloc&lt;$Subject$Event, $Subject$State&gt; {&#10;  $Subject$Bloc() : super($Subject$Initial()) {&#10;    on&lt;$Subject$Event&gt;((event, emit) {&#10;        // TODO: implement event handler    &#10;    });&#10;  }&#10;}" description="bloc class" toReformat="true" toShortenFQNames="true">
+    <variable name="Subject" expression="" defaultValue="&quot;Subject&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="feventmap" value="void _on$eventName$Event($eventName$Event event, Emitter&lt;$BASE_CLASS_NAME$State&gt; emit) {&#10;&#10;}" description="event handler with freeze.map function" toReformat="false" toShortenFQNames="true">
+    <variable name="BASE_CLASS_NAME" expression="regularExpression(dartClassName(), &quot;(Bloc)|(Cubit)&quot;, &quot;&quot;)" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="eventName" expression="" defaultValue="&quot;eventName&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="feventwhen" value="void _on$eventName$Event(Emitter&lt;$BASE_CLASS_NAME$State&gt; emit) {&#10;&#10;}" description="event handler with freeze.when function" toReformat="false" toShortenFQNames="true">
+    <variable name="BASE_CLASS_NAME" expression="regularExpression(dartClassName(), &quot;(Bloc)|(Cubit)&quot;, &quot;&quot;)" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="eventName" expression="" defaultValue="&quot;eventName&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
