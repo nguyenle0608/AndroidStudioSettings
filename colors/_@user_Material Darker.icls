@@ -4,7 +4,7 @@
     <property name="created">2023-10-11T15:31:37</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2022.3.1.20</property>
-    <property name="modified">2024-04-25T22:35:43</property>
+    <property name="modified">2024-04-25T22:51:36</property>
     <property name="originalScheme">Material Darker</property>
     <property name="partialSave">true</property>
   </metaInfo>
@@ -39,19 +39,16 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL">
-      <value />
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="ff9800" />
-      </value>
-    </option>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="3b514d" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SONARLINT_SELECTED">
